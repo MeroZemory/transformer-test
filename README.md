@@ -34,7 +34,6 @@
   ```bash
   flake8
   ```
-- VS Code의 `.vscode/settings.json` 파일에 cSpell 사용자 단어 목록이 등록되어 있어 불필요한 경고를 줄였습니다.
 
 ## 추가 작업 및 확장
 - 데이터를 사용하여 Transformer 모델을 학습 및 튜닝할 수 있습니다.
